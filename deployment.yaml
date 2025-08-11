@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: salimnextdev
-        image: 145988340565.dkr.ecr.us-west-2.amazonaws.com/salimdevsecops
+        image: 467808956895.dkr.ecr.us-west-2.amazonaws.com/salimdevsecops
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
